@@ -69,11 +69,3 @@ This tool is designed to help developers:
 ## Contributing
 
 Feel free to submit issues and enhancement requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Important Note
-
-This is a planning and tracking tool only. It does not make any automatic commits or modifications to your GitHub profile. The goal is to help you maintain genuine, meaningful contributions to the developer community.
